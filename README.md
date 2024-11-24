@@ -30,7 +30,7 @@ pip install numpy pandas matplotlib scikit-learn
 
 ## Dataset License and Attribution
 
-The dataset used in this project is [House Prices Dataset](https://huggingface.co/datasets/RashidIqbal/house_prices_data) and is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+The dataset used in this project is [House Prices Dataset](https://huggingface.co/datasets/RashidIqbal/house_prices_data) and is licensed under the [Apache License 2.0, approved by the ASF in 2004](https://choosealicense.com/licenses/apache-2.0/).
 
 **Author(s) of the Dataset**: Rashid Iqbal
 
